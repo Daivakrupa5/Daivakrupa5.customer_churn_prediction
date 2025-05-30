@@ -1,0 +1,11 @@
+tenure,MonthlyCharges,TotalCharges,Contract,Churn
+1,29.85,29.85,Month-to-month,Yes
+34,56.95,1889.5,One year,No
+2,53.85,108.15,Month-to-month,Yes
+45,42.30,1840.75,Two year,No
+5,70.35,351.75,Month-to-month,Yes
+10,89.10,891.00,Month-to-month,No
+15,55.25,828.75,One year,No
+22,75.90,1669.80,Two year,Yes
+28,65.45,1832.60,One year,No
+60,99.99,5999.40,Two year,No
